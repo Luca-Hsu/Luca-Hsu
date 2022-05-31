@@ -1,6 +1,8 @@
-👋 Hi I'm Luca!
+## 👋 Hi I'm Luca!
 
-## I work here as a programer and I'd love to study in web3 and let's build it!
+💻 I work here as a programer and I'd love to study in web3.
+
+✈️ Let's build it!
 
 <div align="center">
   <a href="https://github.com/luca-hsu">
