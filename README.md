@@ -1,4 +1,4 @@
-## 👋 Hi I'm Louis!
+## 👋 Hi I'm Novar!
 
 💻 I work here as a programer and I'd love to study in web3.
 
