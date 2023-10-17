@@ -1,6 +1,7 @@
 ## 👋 Hi I'm Novar!
 
-💻 As a programmer, I'm immersed in the world of web3 and AI. Passionate about exploring the limitless possibilities within these domains, I'm committed to innovating and making a positive impact on the world.
+💻 As a programmer, I'm immersed in the world of web3 and AI. 
+  Passionate about exploring the limitless possibilities within these domains, I'm committed to innovating and making a positive impact on the world.
 
 ✈️ Let's build it!
 
