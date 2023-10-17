@@ -1,6 +1,6 @@
 ## 👋 Hi I'm Novar!
 
-💻 I work here as a programer and I'd love to study in web3.
+💻 As a programmer, I'm immersed in the world of web3 and AI. Passionate about exploring the limitless possibilities within these domains, I'm committed to innovating and making a positive impact on the world.
 
 ✈️ Let's build it!
 
