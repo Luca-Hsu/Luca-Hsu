@@ -9,7 +9,7 @@
 <div align="center">
   <a href="https://github.com/Louis-XWB">
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Louis-XWB&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=stars"/> -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CompetitiveLin&show_icons=true&count_private=true&custom_title=Louis-XWB's%20Github%20Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CompetitiveLin&show_icons=true&count_private=true&custom_title=Novar's%20Github%20Stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Louis-XWB&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
