@@ -1,6 +1,6 @@
 ## 👋 Hi I'm Novar!
 
-💻 As a programmer, I'm immersed in the world of Android, web3 and AI. 
+💻 As a programmer, I'm immersed in the world of Android, AI and web3. 
   
   Passionate about exploring the limitless possibilities within these domains, I'm committed to innovating and making a positive impact on the world.
 
